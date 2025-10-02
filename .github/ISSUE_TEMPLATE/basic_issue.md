@@ -11,6 +11,3 @@ assignees: gizrak
 
 ## :pencil: 해야할 일
 - [ ] 
-
-## :gift: 참고 자료
--
