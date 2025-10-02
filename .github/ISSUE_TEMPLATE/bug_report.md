@@ -11,6 +11,3 @@ assignees: gizrak
 
 ## :pencil: 수정 내용
 - 
-
-## :gift: 참고 자료
--
